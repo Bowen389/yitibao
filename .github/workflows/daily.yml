@@ -1,0 +1,48 @@
+name: 一体包候选评分
+on:
+  schedule:
+    - cron: '55 9 * * 1-5'
+    - cron: '10 10 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '历史复算日期 YYYY-MM-DD，留空按当天交易日历'
+        required: false
+        type: string
+  push:
+    branches: [main]
+    paths: ['rank.py', '.github/workflows/daily.yml']
+permissions:
+  contents: write
+concurrency:
+  group: yitibao-daily
+  cancel-in-progress: false
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install 'baostock>=0.8.9,<1'
+      - name: Generate report
+        env:
+          REPORT_DATE: ${{ inputs.date }}
+        run: |
+          git pull --ff-only origin main
+          if [ -n "$REPORT_DATE" ]; then
+            python rank.py --date "$REPORT_DATE"
+          else
+            python rank.py
+          fi
+      - name: Publish report
+        run: |
+          git add reports/
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Publish combined ranking'
+          git pull --rebase origin main
+          git push origin HEAD:main
