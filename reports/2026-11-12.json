@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-12",
+  "next_session": null,
+  "status": "partial",
+  "scoring_version": "v1",
+  "sources": {
+    "zonghe": [
+      "报告缺失或不可用：HTTP Error 404: Not Found"
+    ],
+    "top": [
+      "报告缺失或不可用：HTTP Error 404: Not Found"
+    ],
+    "s9-duoyinzi": [
+      "报告缺失或不可用：HTTP Error 404: Not Found"
+    ]
+  },
+  "boards": {
+    "pending": [],
+    "watch": [],
+    "etf": []
+  }
+}
