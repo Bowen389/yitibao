@@ -1,10 +1,9 @@
 name: 一体包候选评分
 on:
   schedule:
-    - cron: '55 17 * * 1-5'
-      timezone: Asia/Shanghai
-    - cron: '10 18 * * 1-5'
-      timezone: Asia/Shanghai
+    - cron: '0 10 * * 1-5'
+    - cron: '35 10 * * 1-5'
+    - cron: '20 13 * * 1-5'
   workflow_dispatch:
     inputs:
       date:
@@ -28,7 +27,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install 'baostock>=0.8.9,<1'
+      - run: pip install 'baostock>=0.8.9,<1' 'exchange-calendars>=4.11,<5'
       - name: Generate report
         env:
           REPORT_DATE: ${{ inputs.date }}
@@ -37,7 +36,8 @@ jobs:
           if [ -n "$REPORT_DATE" ]; then
             python rank.py --date "$REPORT_DATE"
           else
-            python rank.py
+            report_day=$(python -c 'from datetime import datetime, timedelta; from zoneinfo import ZoneInfo; from exchange_calendars import get_calendar; now = datetime.now(ZoneInfo("Asia/Shanghai")); cutoff = now.date() - timedelta(days=int(now.hour < 15)); print(get_calendar("XSHG").date_to_session(cutoff.isoformat(), direction="previous").date())')
+            python rank.py --date "$report_day"
           fi
       - name: Publish report
         run: |
