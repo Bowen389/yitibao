@@ -1,0 +1,3537 @@
+{
+  "date": "2026-11-18",
+  "next_session": "2026-11-19",
+  "status": "partial",
+  "scoring_version": "v1",
+  "sources": {
+    "zonghe": [],
+    "top": [
+      "bf 缺失或异常"
+    ],
+    "s9-duoyinzi": []
+  },
+  "boards": {
+    "pending": [
+      {
+        "code": "600156",
+        "name": "华升股份",
+        "score": 92,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62,
+          "趋势": 72
+        },
+        "bonus": 20,
+        "evidence": [
+          {
+            "code": "600156",
+            "name": "华升股份",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "600156",
+            "name": "华升股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "600156",
+            "name": "华升股份",
+            "family": "趋势",
+            "points": 72,
+            "pending": true,
+            "rank": 1,
+            "source": "top/s2",
+            "route": null,
+            "detail": {}
+          },
+          {
+            "code": "600156",
+            "name": "华升股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.9645669291338583
+            }
+          }
+        ]
+      },
+      {
+        "code": "688757",
+        "name": "胜科纳米",
+        "score": 79,
+        "pending": true,
+        "families": {
+          "机构": 79
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "688757",
+            "name": "胜科纳米",
+            "family": "机构",
+            "points": 79,
+            "pending": true,
+            "rank": null,
+            "source": "top/lh",
+            "route": null,
+            "detail": {
+              "qualifying_amount_yuan": 33827717,
+              "volume_ratio_20": 2.324621315150888,
+              "volume_tag": "符合量价"
+            }
+          }
+        ]
+      },
+      {
+        "code": "000707",
+        "name": "双环科技",
+        "score": 76,
+        "pending": true,
+        "families": {
+          "趋势": 76
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000707",
+            "name": "双环科技",
+            "family": "趋势",
+            "points": 76,
+            "pending": false,
+            "rank": 1,
+            "source": "zonghe/S2_1",
+            "route": "观察",
+            "detail": {
+              "score": 14.357564
+            }
+          },
+          {
+            "code": "000707",
+            "name": "双环科技",
+            "family": "趋势",
+            "points": 76,
+            "pending": true,
+            "rank": 1,
+            "source": "zonghe/S2_2",
+            "route": "可复核",
+            "detail": {
+              "score": 14.357564
+            }
+          },
+          {
+            "code": "000707",
+            "name": "双环科技",
+            "family": "趋势",
+            "points": 76,
+            "pending": false,
+            "rank": 1,
+            "source": "zonghe/S2_3",
+            "route": "观察",
+            "detail": {
+              "score": 14.791914
+            }
+          },
+          {
+            "code": "000707",
+            "name": "双环科技",
+            "family": "趋势",
+            "points": 76,
+            "pending": false,
+            "rank": 1,
+            "source": "zonghe/S2_4",
+            "route": "观察",
+            "detail": {
+              "score": 14.357564
+            }
+          }
+        ]
+      },
+      {
+        "code": "000158",
+        "name": "常山北明",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "000158",
+            "name": "常山北明",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "000158",
+            "name": "常山北明",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "000158",
+            "name": "常山北明",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.9025559105431307
+            }
+          }
+        ]
+      },
+      {
+        "code": "000815",
+        "name": "美利云",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "000815",
+            "name": "美利云",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "000815",
+            "name": "美利云",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "000815",
+            "name": "美利云",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8860372948082533
+            }
+          }
+        ]
+      },
+      {
+        "code": "000889",
+        "name": "中嘉博创",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "000889",
+            "name": "中嘉博创",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "000889",
+            "name": "中嘉博创",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "000889",
+            "name": "中嘉博创",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8422496570644719
+            }
+          }
+        ]
+      },
+      {
+        "code": "000980",
+        "name": "众泰汽车",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "000980",
+            "name": "众泰汽车",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "000980",
+            "name": "众泰汽车",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8941176470588234
+            }
+          }
+        ]
+      },
+      {
+        "code": "002042",
+        "name": "华孚时尚",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "002042",
+            "name": "华孚时尚",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "002042",
+            "name": "华孚时尚",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "002042",
+            "name": "华孚时尚",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.9863013698630141
+            }
+          }
+        ]
+      },
+      {
+        "code": "002194",
+        "name": "武汉凡谷",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "002194",
+            "name": "武汉凡谷",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "002194",
+            "name": "武汉凡谷",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "002194",
+            "name": "武汉凡谷",
+            "family": "趋势",
+            "points": 68,
+            "pending": false,
+            "rank": 5,
+            "source": "zonghe/S2_1",
+            "route": "观察",
+            "detail": {
+              "score": 12.230305
+            }
+          },
+          {
+            "code": "002194",
+            "name": "武汉凡谷",
+            "family": "趋势",
+            "points": 68,
+            "pending": false,
+            "rank": 5,
+            "source": "zonghe/S2_2",
+            "route": "可复核",
+            "detail": {
+              "score": 12.230305
+            }
+          },
+          {
+            "code": "002194",
+            "name": "武汉凡谷",
+            "family": "趋势",
+            "points": 68,
+            "pending": false,
+            "rank": 5,
+            "source": "zonghe/S2_3",
+            "route": "观察",
+            "detail": {
+              "score": 11.86161
+            }
+          },
+          {
+            "code": "002194",
+            "name": "武汉凡谷",
+            "family": "趋势",
+            "points": 68,
+            "pending": false,
+            "rank": 5,
+            "source": "zonghe/S2_4",
+            "route": "观察",
+            "detail": {
+              "score": 12.230305
+            }
+          },
+          {
+            "code": "002194",
+            "name": "武汉凡谷",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.868137506413545
+            }
+          }
+        ]
+      },
+      {
+        "code": "002197",
+        "name": "证通电子",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "002197",
+            "name": "证通电子",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "002197",
+            "name": "证通电子",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "002197",
+            "name": "证通电子",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8671875000000001
+            }
+          }
+        ]
+      },
+      {
+        "code": "002272",
+        "name": "川润股份",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "002272",
+            "name": "川润股份",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "002272",
+            "name": "川润股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "002272",
+            "name": "川润股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8107725017717932
+            }
+          }
+        ]
+      },
+      {
+        "code": "002463",
+        "name": "沪电股份",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "002463",
+            "name": "沪电股份",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "002463",
+            "name": "沪电股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C2",
+            "detail": {}
+          },
+          {
+            "code": "002463",
+            "name": "沪电股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.6323459253155221
+            }
+          },
+          {
+            "code": "002463",
+            "name": "沪电股份",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 3,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 13.084502414066922
+            }
+          },
+          {
+            "code": "002463",
+            "name": "沪电股份",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 13,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.246888719026646
+            }
+          },
+          {
+            "code": "002463",
+            "name": "沪电股份",
+            "family": "S9股票",
+            "points": 67,
+            "pending": false,
+            "rank": 5,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 11.19203615415686
+            }
+          },
+          {
+            "code": "002463",
+            "name": "沪电股份",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 13,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.246888719026646
+            }
+          },
+          {
+            "code": "002463",
+            "name": "沪电股份",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/wild",
+            "route": null,
+            "detail": {
+              "score": 10.508087555009233
+            }
+          }
+        ]
+      },
+      {
+        "code": "002955",
+        "name": "鸿合科技",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "002955",
+            "name": "鸿合科技",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "002955",
+            "name": "鸿合科技",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "002955",
+            "name": "鸿合科技",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.7384341637010674
+            }
+          }
+        ]
+      },
+      {
+        "code": "600162",
+        "name": "香江控股",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "600162",
+            "name": "香江控股",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "600162",
+            "name": "香江控股",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "600162",
+            "name": "香江控股",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.717887154861945
+            }
+          }
+        ]
+      },
+      {
+        "code": "600186",
+        "name": "莲花控股",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "600186",
+            "name": "莲花控股",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "600186",
+            "name": "莲花控股",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "600186",
+            "name": "莲花控股",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.7204521170457907
+            }
+          }
+        ]
+      },
+      {
+        "code": "603220",
+        "name": "中贝通信",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "603220",
+            "name": "中贝通信",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "603220",
+            "name": "中贝通信",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "603220",
+            "name": "中贝通信",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8427299703264092
+            }
+          }
+        ]
+      },
+      {
+        "code": "603629",
+        "name": "利通电子",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "603629",
+            "name": "利通电子",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "603629",
+            "name": "利通电子",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C2",
+            "detail": {}
+          },
+          {
+            "code": "603629",
+            "name": "利通电子",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.5718204968143261
+            }
+          },
+          {
+            "code": "603629",
+            "name": "利通电子",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 19,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 7.558833174405457
+            }
+          }
+        ]
+      },
+      {
+        "code": "603887",
+        "name": "城地香江",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "603887",
+            "name": "城地香江",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "603887",
+            "name": "城地香江",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "603887",
+            "name": "城地香江",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8920863309352521
+            }
+          }
+        ]
+      },
+      {
+        "code": "603985",
+        "name": "恒润股份",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "P2": 61,
+          "FB": 62
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "603985",
+            "name": "恒润股份",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          },
+          {
+            "code": "603985",
+            "name": "恒润股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "603985",
+            "name": "恒润股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8162145687290464
+            }
+          }
+        ]
+      },
+      {
+        "code": "002916",
+        "name": "深南电路",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002916",
+            "name": "深南电路",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C2",
+            "detail": {}
+          },
+          {
+            "code": "002916",
+            "name": "深南电路",
+            "family": "HGB",
+            "points": 65,
+            "pending": false,
+            "rank": 3,
+            "source": "zonghe/HGB",
+            "route": "仅观察",
+            "detail": {
+              "score": 0.017246
+            }
+          },
+          {
+            "code": "002916",
+            "name": "深南电路",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.533882102251996
+            }
+          },
+          {
+            "code": "002916",
+            "name": "深南电路",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 20,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 7.535998082309845
+            }
+          }
+        ]
+      },
+      {
+        "code": "002929",
+        "name": "润建股份",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002929",
+            "name": "润建股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "002929",
+            "name": "润建股份",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.9378108511449288
+            }
+          }
+        ]
+      },
+      {
+        "code": "600839",
+        "name": "四川长虹",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600839",
+            "name": "四川长虹",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/H1",
+            "route": "FB C1",
+            "detail": {}
+          },
+          {
+            "code": "600839",
+            "name": "四川长虹",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8037383177570091
+            }
+          },
+          {
+            "code": "600839",
+            "name": "四川长虹",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 13.310076354735056
+            }
+          },
+          {
+            "code": "600839",
+            "name": "四川长虹",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 9,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.87536735624156
+            }
+          },
+          {
+            "code": "600839",
+            "name": "四川长虹",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 8,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 11.019601097981823
+            }
+          },
+          {
+            "code": "600839",
+            "name": "四川长虹",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 9,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.87536735624156
+            }
+          }
+        ]
+      },
+      {
+        "code": "000410",
+        "name": "沈阳机床",
+        "score": 61,
+        "pending": true,
+        "families": {
+          "P2": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000410",
+            "name": "沈阳机床",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "000711",
+        "name": "京蓝科技",
+        "score": 61,
+        "pending": true,
+        "families": {
+          "P2": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000711",
+            "name": "京蓝科技",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "600405",
+        "name": "动力源",
+        "score": 61,
+        "pending": true,
+        "families": {
+          "P2": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600405",
+            "name": "动力源",
+            "family": "P2",
+            "points": 61,
+            "pending": true,
+            "rank": null,
+            "source": "zonghe/P2",
+            "route": "待缺口",
+            "detail": {}
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "code": "600410",
+        "name": "华胜天成",
+        "score": 82,
+        "pending": false,
+        "families": {
+          "趋势": 72,
+          "HGB": 65
+        },
+        "bonus": 10,
+        "evidence": [
+          {
+            "code": "600410",
+            "name": "华胜天成",
+            "family": "趋势",
+            "points": 72,
+            "pending": false,
+            "rank": 3,
+            "source": "zonghe/S2_1",
+            "route": "观察",
+            "detail": {
+              "score": 14.007723
+            }
+          },
+          {
+            "code": "600410",
+            "name": "华胜天成",
+            "family": "趋势",
+            "points": 72,
+            "pending": false,
+            "rank": 3,
+            "source": "zonghe/S2_2",
+            "route": "可复核",
+            "detail": {
+              "score": 14.007723
+            }
+          },
+          {
+            "code": "600410",
+            "name": "华胜天成",
+            "family": "趋势",
+            "points": 72,
+            "pending": false,
+            "rank": 2,
+            "source": "zonghe/S2_3",
+            "route": "观察",
+            "detail": {
+              "score": 14.474347
+            }
+          },
+          {
+            "code": "600410",
+            "name": "华胜天成",
+            "family": "趋势",
+            "points": 72,
+            "pending": false,
+            "rank": 3,
+            "source": "zonghe/S2_4",
+            "route": "观察",
+            "detail": {
+              "score": 14.007723
+            }
+          },
+          {
+            "code": "600410",
+            "name": "华胜天成",
+            "family": "HGB",
+            "points": 65,
+            "pending": false,
+            "rank": 2,
+            "source": "zonghe/HGB",
+            "route": "仅观察",
+            "detail": {
+              "score": 0.017749
+            }
+          }
+        ]
+      },
+      {
+        "code": "301396",
+        "name": "宏景科技",
+        "score": 75,
+        "pending": false,
+        "families": {
+          "S9股票": 75
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "301396",
+            "name": "宏景科技",
+            "family": "S9股票",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 13.68524002883846
+            }
+          },
+          {
+            "code": "301396",
+            "name": "宏景科技",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 9.713274707224093
+            }
+          },
+          {
+            "code": "301396",
+            "name": "宏景科技",
+            "family": "S9股票",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 13.498772907893596
+            }
+          },
+          {
+            "code": "301396",
+            "name": "宏景科技",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 9.713274707224093
+            }
+          },
+          {
+            "code": "301396",
+            "name": "宏景科技",
+            "family": "S9股票",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/wild",
+            "route": null,
+            "detail": {
+              "score": 14.04608165681919
+            }
+          }
+        ]
+      },
+      {
+        "code": "600039",
+        "name": "四川路桥",
+        "score": 75,
+        "pending": false,
+        "families": {
+          "S9股票": 75
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600039",
+            "name": "四川路桥",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 11,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 9.534646466040526
+            }
+          },
+          {
+            "code": "600039",
+            "name": "四川路桥",
+            "family": "S9股票",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 10.189189092228109
+            }
+          },
+          {
+            "code": "600039",
+            "name": "四川路桥",
+            "family": "S9股票",
+            "points": 67,
+            "pending": false,
+            "rank": 4,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 11.450818342013116
+            }
+          },
+          {
+            "code": "600039",
+            "name": "四川路桥",
+            "family": "S9股票",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 10.189189092228109
+            }
+          }
+        ]
+      },
+      {
+        "code": "002148",
+        "name": "北纬科技",
+        "score": 72,
+        "pending": false,
+        "families": {
+          "趋势": 72
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002148",
+            "name": "北纬科技",
+            "family": "趋势",
+            "points": 72,
+            "pending": false,
+            "rank": 2,
+            "source": "zonghe/S2_1",
+            "route": "观察",
+            "detail": {
+              "score": 14.131362
+            }
+          },
+          {
+            "code": "002148",
+            "name": "北纬科技",
+            "family": "趋势",
+            "points": 72,
+            "pending": false,
+            "rank": 2,
+            "source": "zonghe/S2_2",
+            "route": "可复核",
+            "detail": {
+              "score": 14.131362
+            }
+          },
+          {
+            "code": "002148",
+            "name": "北纬科技",
+            "family": "趋势",
+            "points": 68,
+            "pending": false,
+            "rank": 4,
+            "source": "zonghe/S2_3",
+            "route": "观察",
+            "detail": {
+              "score": 13.251132
+            }
+          },
+          {
+            "code": "002148",
+            "name": "北纬科技",
+            "family": "趋势",
+            "points": 72,
+            "pending": false,
+            "rank": 2,
+            "source": "zonghe/S2_4",
+            "route": "观察",
+            "detail": {
+              "score": 14.131362
+            }
+          }
+        ]
+      },
+      {
+        "code": "002771",
+        "name": "真视通",
+        "score": 72,
+        "pending": false,
+        "families": {
+          "趋势": 72
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002771",
+            "name": "真视通",
+            "family": "趋势",
+            "points": 68,
+            "pending": false,
+            "rank": 4,
+            "source": "zonghe/S2_1",
+            "route": "观察",
+            "detail": {
+              "score": 13.81404
+            }
+          },
+          {
+            "code": "002771",
+            "name": "真视通",
+            "family": "趋势",
+            "points": 68,
+            "pending": false,
+            "rank": 4,
+            "source": "zonghe/S2_2",
+            "route": "可复核",
+            "detail": {
+              "score": 13.81404
+            }
+          },
+          {
+            "code": "002771",
+            "name": "真视通",
+            "family": "趋势",
+            "points": 72,
+            "pending": false,
+            "rank": 3,
+            "source": "zonghe/S2_3",
+            "route": "观察",
+            "detail": {
+              "score": 13.579469
+            }
+          },
+          {
+            "code": "002771",
+            "name": "真视通",
+            "family": "趋势",
+            "points": 68,
+            "pending": false,
+            "rank": 4,
+            "source": "zonghe/S2_4",
+            "route": "观察",
+            "detail": {
+              "score": 13.81404
+            }
+          }
+        ]
+      },
+      {
+        "code": "605117",
+        "name": "德业股份",
+        "score": 71,
+        "pending": false,
+        "families": {
+          "S9股票": 71
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "605117",
+            "name": "德业股份",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 6,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 10.629670141047397
+            }
+          },
+          {
+            "code": "605117",
+            "name": "德业股份",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 3,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 9.544123527397472
+            }
+          },
+          {
+            "code": "605117",
+            "name": "德业股份",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 13.023999734056531
+            }
+          },
+          {
+            "code": "605117",
+            "name": "德业股份",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 3,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 9.544123527397472
+            }
+          }
+        ]
+      },
+      {
+        "code": "688820",
+        "name": "盛合晶微",
+        "score": 71,
+        "pending": false,
+        "families": {
+          "S9股票": 71
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "688820",
+            "name": "盛合晶微",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 10.04473609195102
+            }
+          },
+          {
+            "code": "688820",
+            "name": "盛合晶微",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.946343248624371
+            }
+          },
+          {
+            "code": "688820",
+            "name": "盛合晶微",
+            "family": "S9股票",
+            "points": 71,
+            "pending": false,
+            "rank": 3,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 13.017534325943618
+            }
+          },
+          {
+            "code": "688820",
+            "name": "盛合晶微",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.946343248624371
+            }
+          }
+        ]
+      },
+      {
+        "code": "002557",
+        "name": "洽洽食品",
+        "score": 70,
+        "pending": false,
+        "families": {
+          "趋势": 70
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002557",
+            "name": "洽洽食品",
+            "family": "趋势",
+            "points": 70,
+            "pending": false,
+            "rank": 1,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "002187",
+        "name": "广百股份",
+        "score": 69,
+        "pending": false,
+        "families": {
+          "HGB": 69
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002187",
+            "name": "广百股份",
+            "family": "HGB",
+            "points": 69,
+            "pending": false,
+            "rank": 1,
+            "source": "zonghe/HGB",
+            "route": "仅观察",
+            "detail": {
+              "score": 0.038185
+            }
+          }
+        ]
+      },
+      {
+        "code": "000921",
+        "name": "海信家电",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "S9股票": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000921",
+            "name": "海信家电",
+            "family": "S9股票",
+            "points": 67,
+            "pending": false,
+            "rank": 4,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 9.291410050516722
+            }
+          },
+          {
+            "code": "000921",
+            "name": "海信家电",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 6,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 11.154075490250161
+            }
+          },
+          {
+            "code": "000921",
+            "name": "海信家电",
+            "family": "S9股票",
+            "points": 67,
+            "pending": false,
+            "rank": 4,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 9.291410050516722
+            }
+          }
+        ]
+      },
+      {
+        "code": "000988",
+        "name": "华工科技",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "S9股票": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000988",
+            "name": "华工科技",
+            "family": "S9股票",
+            "points": 67,
+            "pending": false,
+            "rank": 4,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 11.449095005973245
+            }
+          },
+          {
+            "code": "000988",
+            "name": "华工科技",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 12,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 10.200385775790908
+            }
+          }
+        ]
+      },
+      {
+        "code": "300122",
+        "name": "智飞生物",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "S9股票": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "300122",
+            "name": "智飞生物",
+            "family": "S9股票",
+            "points": 67,
+            "pending": false,
+            "rank": 5,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 11.0963024866222
+            }
+          },
+          {
+            "code": "300122",
+            "name": "智飞生物",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 9,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 10.8727040783122
+            }
+          }
+        ]
+      },
+      {
+        "code": "600548",
+        "name": "深高速",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "S9股票": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600548",
+            "name": "深高速",
+            "family": "S9股票",
+            "points": 67,
+            "pending": false,
+            "rank": 5,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 8.71158481214739
+            }
+          },
+          {
+            "code": "600548",
+            "name": "深高速",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 13,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 9.961026082594744
+            }
+          },
+          {
+            "code": "600548",
+            "name": "深高速",
+            "family": "S9股票",
+            "points": 67,
+            "pending": false,
+            "rank": 5,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 8.71158481214739
+            }
+          }
+        ]
+      },
+      {
+        "code": "000530",
+        "name": "冰山冷热",
+        "score": 66,
+        "pending": false,
+        "families": {
+          "趋势": 66
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000530",
+            "name": "冰山冷热",
+            "family": "趋势",
+            "points": 66,
+            "pending": false,
+            "rank": 3,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "601188",
+        "name": "龙江交通",
+        "score": 66,
+        "pending": false,
+        "families": {
+          "趋势": 66
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "601188",
+            "name": "龙江交通",
+            "family": "趋势",
+            "points": 66,
+            "pending": false,
+            "rank": 2,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "600406",
+        "name": "国电南瑞",
+        "score": 62,
+        "pending": false,
+        "families": {
+          "趋势": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600406",
+            "name": "国电南瑞",
+            "family": "趋势",
+            "points": 62,
+            "pending": false,
+            "rank": 5,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "600690",
+        "name": "海尔智家",
+        "score": 62,
+        "pending": false,
+        "families": {
+          "趋势": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600690",
+            "name": "海尔智家",
+            "family": "趋势",
+            "points": 62,
+            "pending": false,
+            "rank": 4,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "000027",
+        "name": "深圳能源",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000027",
+            "name": "深圳能源",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 18,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 7.587056430357934
+            }
+          },
+          {
+            "code": "000027",
+            "name": "深圳能源",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 16,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 6.949064187344199
+            }
+          },
+          {
+            "code": "000027",
+            "name": "深圳能源",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 16,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 6.949064187344199
+            }
+          }
+        ]
+      },
+      {
+        "code": "000539",
+        "name": "粤电力Ａ",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000539",
+            "name": "粤电力Ａ",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 16,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 8.791099403488708
+            }
+          }
+        ]
+      },
+      {
+        "code": "002242",
+        "name": "九阳股份",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002242",
+            "name": "九阳股份",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 8,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.883040298092469
+            }
+          },
+          {
+            "code": "002242",
+            "name": "九阳股份",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 8,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.883040298092469
+            }
+          }
+        ]
+      },
+      {
+        "code": "002340",
+        "name": "格林美",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002340",
+            "name": "格林美",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 17,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 7.772318638139502
+            }
+          },
+          {
+            "code": "002340",
+            "name": "格林美",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 11,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.399644616637563
+            }
+          },
+          {
+            "code": "002340",
+            "name": "格林美",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 11,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.399644616637563
+            }
+          }
+        ]
+      },
+      {
+        "code": "002432",
+        "name": "九安医疗",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002432",
+            "name": "九安医疗",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 14,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 8.405745040022776
+            }
+          }
+        ]
+      },
+      {
+        "code": "300209",
+        "name": "行云科技",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "300209",
+            "name": "行云科技",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 9,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 9.824853995671205
+            }
+          },
+          {
+            "code": "300209",
+            "name": "行云科技",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 11,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 10.274381365486148
+            }
+          }
+        ]
+      },
+      {
+        "code": "300857",
+        "name": "协创数据",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "300857",
+            "name": "协创数据",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 10,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 9.553930048342572
+            }
+          }
+        ]
+      },
+      {
+        "code": "301018",
+        "name": "申菱环境",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "301018",
+            "name": "申菱环境",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 15,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 8.33265286930835
+            }
+          }
+        ]
+      },
+      {
+        "code": "600004",
+        "name": "白云机场",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600004",
+            "name": "白云机场",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 18,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 6.683096627972773
+            }
+          },
+          {
+            "code": "600004",
+            "name": "白云机场",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 18,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 6.683096627972773
+            }
+          }
+        ]
+      },
+      {
+        "code": "600009",
+        "name": "上海机场",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600009",
+            "name": "上海机场",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 20,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 6.571956386556488
+            }
+          },
+          {
+            "code": "600009",
+            "name": "上海机场",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 20,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 6.571956386556488
+            }
+          }
+        ]
+      },
+      {
+        "code": "600012",
+        "name": "皖通高速",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600012",
+            "name": "皖通高速",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 17,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 8.72054092941719
+            }
+          }
+        ]
+      },
+      {
+        "code": "600206",
+        "name": "有研新材",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600206",
+            "name": "有研新材",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 12,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 8.698844538568629
+            }
+          },
+          {
+            "code": "600206",
+            "name": "有研新材",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 14,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.23420338155893
+            }
+          },
+          {
+            "code": "600206",
+            "name": "有研新材",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 10,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 10.493761236172443
+            }
+          },
+          {
+            "code": "600206",
+            "name": "有研新材",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 14,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.23420338155893
+            }
+          }
+        ]
+      },
+      {
+        "code": "600236",
+        "name": "桂冠电力",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600236",
+            "name": "桂冠电力",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 6,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 8.429012873152576
+            }
+          },
+          {
+            "code": "600236",
+            "name": "桂冠电力",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 11.089406359482972
+            }
+          },
+          {
+            "code": "600236",
+            "name": "桂冠电力",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 6,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 8.429012873152576
+            }
+          }
+        ]
+      },
+      {
+        "code": "600350",
+        "name": "山东高速",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600350",
+            "name": "山东高速",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 10,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.47950163553343
+            }
+          },
+          {
+            "code": "600350",
+            "name": "山东高速",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 14,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 9.780898194966262
+            }
+          },
+          {
+            "code": "600350",
+            "name": "山东高速",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 10,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.47950163553343
+            }
+          }
+        ]
+      },
+      {
+        "code": "600372",
+        "name": "中航机载",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600372",
+            "name": "中航机载",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 15,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.149286823920651
+            }
+          },
+          {
+            "code": "600372",
+            "name": "中航机载",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 15,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.149286823920651
+            }
+          }
+        ]
+      },
+      {
+        "code": "600428",
+        "name": "中远海特",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600428",
+            "name": "中远海特",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 15,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 9.68789523643967
+            }
+          }
+        ]
+      },
+      {
+        "code": "600483",
+        "name": "福能股份",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600483",
+            "name": "福能股份",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 16,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 7.988025323944108
+            }
+          }
+        ]
+      },
+      {
+        "code": "600862",
+        "name": "中航高科",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600862",
+            "name": "中航高科",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 17,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 6.7660142134094325
+            }
+          },
+          {
+            "code": "600862",
+            "name": "中航高科",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 17,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 6.7660142134094325
+            }
+          }
+        ]
+      },
+      {
+        "code": "600885",
+        "name": "宏发股份",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600885",
+            "name": "宏发股份",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 19,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 6.630414079492063
+            }
+          },
+          {
+            "code": "600885",
+            "name": "宏发股份",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 19,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 6.630414079492063
+            }
+          }
+        ]
+      },
+      {
+        "code": "601228",
+        "name": "XD广州港",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "601228",
+            "name": "XD广州港",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 12,
+            "source": "s9-duoyinzi/balanced",
+            "route": null,
+            "detail": {
+              "score": 7.397522456377562
+            }
+          },
+          {
+            "code": "601228",
+            "name": "XD广州港",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 20,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 8.226740935709568
+            }
+          },
+          {
+            "code": "601228",
+            "name": "XD广州港",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 12,
+            "source": "s9-duoyinzi/original",
+            "route": null,
+            "detail": {
+              "score": 7.397522456377562
+            }
+          }
+        ]
+      },
+      {
+        "code": "601872",
+        "name": "招商轮船",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "601872",
+            "name": "招商轮船",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 19,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 8.570210010643919
+            }
+          }
+        ]
+      },
+      {
+        "code": "603392",
+        "name": "万泰生物",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "603392",
+            "name": "万泰生物",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 13,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 8.482375346770404
+            }
+          }
+        ]
+      },
+      {
+        "code": "688141",
+        "name": "杰华特",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "688141",
+            "name": "杰华特",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 8,
+            "source": "s9-duoyinzi/champion",
+            "route": null,
+            "detail": {
+              "score": 9.868517302472105
+            }
+          }
+        ]
+      },
+      {
+        "code": "688629",
+        "name": "华丰科技",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "S9股票": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "688629",
+            "name": "华丰科技",
+            "family": "S9股票",
+            "points": 61,
+            "pending": false,
+            "rank": 18,
+            "source": "s9-duoyinzi/runner",
+            "route": null,
+            "detail": {
+              "score": 8.666403526177731
+            }
+          }
+        ]
+      }
+    ],
+    "etf": [
+      {
+        "code": "159798",
+        "name": "消费ETF易方达",
+        "score": 75,
+        "pending": false,
+        "families": {
+          "ETF": 75
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "159798",
+            "name": "消费ETF易方达",
+            "family": "ETF",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 1.0758206567946929
+            }
+          }
+        ]
+      },
+      {
+        "code": "515650",
+        "name": "消费50ETF富国",
+        "score": 75,
+        "pending": false,
+        "families": {
+          "ETF": 75
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "515650",
+            "name": "消费50ETF富国",
+            "family": "ETF",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 1.06251488119143
+            }
+          },
+          {
+            "code": "515650",
+            "name": "消费50ETF富国",
+            "family": "ETF",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 1.06251488119143
+            }
+          },
+          {
+            "code": "515650",
+            "name": "消费50ETF富国",
+            "family": "ETF",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 1.06251488119143
+            }
+          }
+        ]
+      },
+      {
+        "code": "159928",
+        "name": "消费ETF汇添富",
+        "score": 71,
+        "pending": false,
+        "families": {
+          "ETF": 71
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "159928",
+            "name": "消费ETF汇添富",
+            "family": "ETF",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.7487527322066667
+            }
+          },
+          {
+            "code": "159928",
+            "name": "消费ETF汇添富",
+            "family": "ETF",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.7487527322066667
+            }
+          }
+        ]
+      },
+      {
+        "code": "513070",
+        "name": "港股通消费ETF易方达",
+        "score": 71,
+        "pending": false,
+        "families": {
+          "ETF": 71
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "513070",
+            "name": "港股通消费ETF易方达",
+            "family": "ETF",
+            "points": 71,
+            "pending": false,
+            "rank": 3,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.7395342305192932
+            }
+          },
+          {
+            "code": "513070",
+            "name": "港股通消费ETF易方达",
+            "family": "ETF",
+            "points": 67,
+            "pending": false,
+            "rank": 4,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.7395342305192932
+            }
+          },
+          {
+            "code": "513070",
+            "name": "港股通消费ETF易方达",
+            "family": "ETF",
+            "points": 71,
+            "pending": false,
+            "rank": 3,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.7395342305192932
+            }
+          }
+        ]
+      },
+      {
+        "code": "516130",
+        "name": "消费龙头ETF华宝",
+        "score": 71,
+        "pending": false,
+        "families": {
+          "ETF": 71
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "516130",
+            "name": "消费龙头ETF华宝",
+            "family": "ETF",
+            "points": 71,
+            "pending": false,
+            "rank": 3,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.9198774496879325
+            }
+          }
+        ]
+      },
+      {
+        "code": "159735",
+        "name": "港股消费ETF银华",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "ETF": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "159735",
+            "name": "港股消费ETF银华",
+            "family": "ETF",
+            "points": 67,
+            "pending": false,
+            "rank": 5,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.7156660565429186
+            }
+          }
+        ]
+      },
+      {
+        "code": "513970",
+        "name": "恒生消费ETF景顺",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "ETF": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "513970",
+            "name": "恒生消费ETF景顺",
+            "family": "ETF",
+            "points": 67,
+            "pending": false,
+            "rank": 4,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.6209661988482159
+            }
+          },
+          {
+            "code": "513970",
+            "name": "恒生消费ETF景顺",
+            "family": "ETF",
+            "points": 67,
+            "pending": false,
+            "rank": 4,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.6209661988482159
+            }
+          }
+        ]
+      },
+      {
+        "code": "515450",
+        "name": "红利低波50ETF南方",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "ETF": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "515450",
+            "name": "红利低波50ETF南方",
+            "family": "ETF",
+            "points": 67,
+            "pending": false,
+            "rank": 5,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.6159049814006249
+            }
+          },
+          {
+            "code": "515450",
+            "name": "红利低波50ETF南方",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.6159049814006249
+            }
+          },
+          {
+            "code": "515450",
+            "name": "红利低波50ETF南方",
+            "family": "ETF",
+            "points": 67,
+            "pending": false,
+            "rank": 5,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.6159049814006249
+            }
+          }
+        ]
+      },
+      {
+        "code": "159207",
+        "name": "高股息ETF广发",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "159207",
+            "name": "高股息ETF广发",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.5967183484989562
+            }
+          },
+          {
+            "code": "159207",
+            "name": "高股息ETF广发",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 10,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.5967183484989562
+            }
+          },
+          {
+            "code": "159207",
+            "name": "高股息ETF广发",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.5967183484989562
+            }
+          }
+        ]
+      },
+      {
+        "code": "512690",
+        "name": "酒ETF鹏华",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "512690",
+            "name": "酒ETF鹏华",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 8,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.562675450270908
+            }
+          },
+          {
+            "code": "512690",
+            "name": "酒ETF鹏华",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 8,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.562675450270908
+            }
+          }
+        ]
+      },
+      {
+        "code": "512700",
+        "name": "银行ETF南方",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "512700",
+            "name": "银行ETF南方",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 6,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.6009779242472261
+            }
+          },
+          {
+            "code": "512700",
+            "name": "银行ETF南方",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 9,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.6009779242472261
+            }
+          },
+          {
+            "code": "512700",
+            "name": "银行ETF南方",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 6,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.6009779242472261
+            }
+          }
+        ]
+      },
+      {
+        "code": "515170",
+        "name": "食品饮料ETF华夏",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "515170",
+            "name": "食品饮料ETF华夏",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 9,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.5018994910777508
+            }
+          },
+          {
+            "code": "515170",
+            "name": "食品饮料ETF华夏",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 9,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.5018994910777508
+            }
+          }
+        ]
+      },
+      {
+        "code": "515300",
+        "name": "300红利低波ETF嘉实",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "515300",
+            "name": "300红利低波ETF嘉实",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 10,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.46441285893909445
+            }
+          },
+          {
+            "code": "515300",
+            "name": "300红利低波ETF嘉实",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 10,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.46441285893909445
+            }
+          }
+        ]
+      },
+      {
+        "code": "516900",
+        "name": "食品饮料ETF华安",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "516900",
+            "name": "食品饮料ETF华安",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 8,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.6130528342524899
+            }
+          }
+        ]
+      },
+      {
+        "code": "520620",
+        "name": "恒生消费ETF嘉实",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "520620",
+            "name": "恒生消费ETF嘉实",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 6,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.6656038866726691
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
