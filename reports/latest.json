@@ -569,81 +569,6 @@
         ]
       },
       {
-        "code": "159529",
-        "name": "标普消费ETF景顺",
-        "score": 75,
-        "pending": false,
-        "families": {
-          "S9股票": 75
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "159529",
-            "name": "标普消费ETF景顺",
-            "family": "S9股票",
-            "points": 75,
-            "pending": false,
-            "rank": 1,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.37448808870752537
-            }
-          }
-        ]
-      },
-      {
-        "code": "159887",
-        "name": "银行ETF富国",
-        "score": 71,
-        "pending": false,
-        "families": {
-          "S9股票": 71
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "159887",
-            "name": "银行ETF富国",
-            "family": "S9股票",
-            "points": 71,
-            "pending": false,
-            "rank": 2,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.3524520473246806
-            }
-          }
-        ]
-      },
-      {
-        "code": "512700",
-        "name": "银行ETF南方",
-        "score": 71,
-        "pending": false,
-        "families": {
-          "S9股票": 71
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "512700",
-            "name": "银行ETF南方",
-            "family": "S9股票",
-            "points": 71,
-            "pending": false,
-            "rank": 3,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.33902139522466945
-            }
-          }
-        ]
-      },
-      {
         "code": "600236",
         "name": "桂冠电力",
         "score": 71,
@@ -997,56 +922,6 @@
             "route": null,
             "detail": {
               "score": 9.338147457004773
-            }
-          }
-        ]
-      },
-      {
-        "code": "515020",
-        "name": "银行ETF华夏",
-        "score": 67,
-        "pending": false,
-        "families": {
-          "S9股票": 67
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "515020",
-            "name": "银行ETF华夏",
-            "family": "S9股票",
-            "points": 67,
-            "pending": false,
-            "rank": 5,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.33632472925383017
-            }
-          }
-        ]
-      },
-      {
-        "code": "516310",
-        "name": "银行ETF易方达",
-        "score": 67,
-        "pending": false,
-        "families": {
-          "S9股票": 67
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "516310",
-            "name": "银行ETF易方达",
-            "family": "S9股票",
-            "points": 67,
-            "pending": false,
-            "rank": 4,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.3374712522623377
             }
           }
         ]
@@ -1498,131 +1373,6 @@
             "route": null,
             "detail": {
               "score": 8.620892358451798
-            }
-          }
-        ]
-      },
-      {
-        "code": "512730",
-        "name": "银行ETF鹏华",
-        "score": 61,
-        "pending": false,
-        "families": {
-          "S9股票": 61
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "512730",
-            "name": "银行ETF鹏华",
-            "family": "S9股票",
-            "points": 61,
-            "pending": false,
-            "rank": 8,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.3298795683576554
-            }
-          }
-        ]
-      },
-      {
-        "code": "512800",
-        "name": "银行ETF华宝",
-        "score": 61,
-        "pending": false,
-        "families": {
-          "S9股票": 61
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "512800",
-            "name": "银行ETF华宝",
-            "family": "S9股票",
-            "points": 61,
-            "pending": false,
-            "rank": 10,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.32852183219016723
-            }
-          }
-        ]
-      },
-      {
-        "code": "515290",
-        "name": "银行ETF天弘",
-        "score": 61,
-        "pending": false,
-        "families": {
-          "S9股票": 61
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "515290",
-            "name": "银行ETF天弘",
-            "family": "S9股票",
-            "points": 61,
-            "pending": false,
-            "rank": 7,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.3317626384478307
-            }
-          }
-        ]
-      },
-      {
-        "code": "515450",
-        "name": "红利低波50ETF南方",
-        "score": 61,
-        "pending": false,
-        "families": {
-          "S9股票": 61
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "515450",
-            "name": "红利低波50ETF南方",
-            "family": "S9股票",
-            "points": 61,
-            "pending": false,
-            "rank": 6,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.3350781529516507
-            }
-          }
-        ]
-      },
-      {
-        "code": "516210",
-        "name": "银行ETF华安",
-        "score": 61,
-        "pending": false,
-        "families": {
-          "S9股票": 61
-        },
-        "bonus": 0,
-        "evidence": [
-          {
-            "code": "516210",
-            "name": "银行ETF华安",
-            "family": "S9股票",
-            "points": 61,
-            "pending": false,
-            "rank": 9,
-            "source": "s9-duoyinzi/DUAL55",
-            "route": null,
-            "detail": {
-              "score": 0.328801626952657
             }
           }
         ]
@@ -2111,6 +1861,31 @@
     ],
     "etf": [
       {
+        "code": "159529",
+        "name": "标普消费ETF景顺",
+        "score": 75,
+        "pending": false,
+        "families": {
+          "ETF": 75
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "159529",
+            "name": "标普消费ETF景顺",
+            "family": "ETF",
+            "points": 75,
+            "pending": false,
+            "rank": 1,
+            "source": "s9-duoyinzi/DUAL55",
+            "route": null,
+            "detail": {
+              "score": 0.37448808870752537
+            }
+          }
+        ]
+      },
+      {
         "code": "159798",
         "name": "消费ETF易方达",
         "score": 75,
@@ -2187,6 +1962,31 @@
         ]
       },
       {
+        "code": "159887",
+        "name": "银行ETF富国",
+        "score": 71,
+        "pending": false,
+        "families": {
+          "ETF": 71
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "159887",
+            "name": "银行ETF富国",
+            "family": "ETF",
+            "points": 71,
+            "pending": false,
+            "rank": 2,
+            "source": "s9-duoyinzi/DUAL55",
+            "route": null,
+            "detail": {
+              "score": 0.3524520473246806
+            }
+          }
+        ]
+      },
+      {
         "code": "159928",
         "name": "消费ETF汇添富",
         "score": 71,
@@ -2220,6 +2020,70 @@
             "route": null,
             "detail": {
               "score": 0.7726910393460011
+            }
+          }
+        ]
+      },
+      {
+        "code": "512700",
+        "name": "银行ETF南方",
+        "score": 71,
+        "pending": false,
+        "families": {
+          "ETF": 71
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "512700",
+            "name": "银行ETF南方",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/B0",
+            "route": null,
+            "detail": {
+              "score": 0.6400886907875482
+            }
+          },
+          {
+            "code": "512700",
+            "name": "银行ETF南方",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 10,
+            "source": "s9-duoyinzi/K3",
+            "route": null,
+            "detail": {
+              "score": 0.6400886907875482
+            }
+          },
+          {
+            "code": "512700",
+            "name": "银行ETF南方",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/K5",
+            "route": null,
+            "detail": {
+              "score": 0.6400886907875482
+            }
+          },
+          {
+            "code": "512700",
+            "name": "银行ETF南方",
+            "family": "ETF",
+            "points": 71,
+            "pending": false,
+            "rank": 3,
+            "source": "s9-duoyinzi/DUAL55",
+            "route": null,
+            "detail": {
+              "score": 0.33902139522466945
             }
           }
         ]
@@ -2364,6 +2228,31 @@
         ]
       },
       {
+        "code": "515020",
+        "name": "银行ETF华夏",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "ETF": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "515020",
+            "name": "银行ETF华夏",
+            "family": "ETF",
+            "points": 67,
+            "pending": false,
+            "rank": 5,
+            "source": "s9-duoyinzi/DUAL55",
+            "route": null,
+            "detail": {
+              "score": 0.33632472925383017
+            }
+          }
+        ]
+      },
+      {
         "code": "515450",
         "name": "红利低波50ETF南方",
         "score": 67,
@@ -2410,6 +2299,44 @@
             "route": null,
             "detail": {
               "score": 0.6658652475208792
+            }
+          },
+          {
+            "code": "515450",
+            "name": "红利低波50ETF南方",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 6,
+            "source": "s9-duoyinzi/DUAL55",
+            "route": null,
+            "detail": {
+              "score": 0.3350781529516507
+            }
+          }
+        ]
+      },
+      {
+        "code": "516310",
+        "name": "银行ETF易方达",
+        "score": 67,
+        "pending": false,
+        "families": {
+          "ETF": 67
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "516310",
+            "name": "银行ETF易方达",
+            "family": "ETF",
+            "points": 67,
+            "pending": false,
+            "rank": 4,
+            "source": "s9-duoyinzi/DUAL55",
+            "route": null,
+            "detail": {
+              "score": 0.3374712522623377
             }
           }
         ]
@@ -2504,8 +2431,8 @@
         ]
       },
       {
-        "code": "512700",
-        "name": "银行ETF南方",
+        "code": "512730",
+        "name": "银行ETF鹏华",
         "score": 61,
         "pending": false,
         "families": {
@@ -2514,42 +2441,41 @@
         "bonus": 0,
         "evidence": [
           {
-            "code": "512700",
-            "name": "银行ETF南方",
+            "code": "512730",
+            "name": "银行ETF鹏华",
             "family": "ETF",
             "points": 61,
             "pending": false,
-            "rank": 7,
-            "source": "s9-duoyinzi/B0",
+            "rank": 8,
+            "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.6400886907875482
+              "score": 0.3298795683576554
             }
-          },
+          }
+        ]
+      },
+      {
+        "code": "512800",
+        "name": "银行ETF华宝",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
           {
-            "code": "512700",
-            "name": "银行ETF南方",
+            "code": "512800",
+            "name": "银行ETF华宝",
             "family": "ETF",
             "points": 61,
             "pending": false,
             "rank": 10,
-            "source": "s9-duoyinzi/K3",
+            "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.6400886907875482
-            }
-          },
-          {
-            "code": "512700",
-            "name": "银行ETF南方",
-            "family": "ETF",
-            "points": 61,
-            "pending": false,
-            "rank": 7,
-            "source": "s9-duoyinzi/K5",
-            "route": null,
-            "detail": {
-              "score": 0.6400886907875482
+              "score": 0.32852183219016723
             }
           }
         ]
@@ -2593,6 +2519,31 @@
         ]
       },
       {
+        "code": "515290",
+        "name": "银行ETF天弘",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "515290",
+            "name": "银行ETF天弘",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 7,
+            "source": "s9-duoyinzi/DUAL55",
+            "route": null,
+            "detail": {
+              "score": 0.3317626384478307
+            }
+          }
+        ]
+      },
+      {
         "code": "515300",
         "name": "300红利低波ETF嘉实",
         "score": 61,
@@ -2626,6 +2577,31 @@
             "route": null,
             "detail": {
               "score": 0.5039615425241578
+            }
+          }
+        ]
+      },
+      {
+        "code": "516210",
+        "name": "银行ETF华安",
+        "score": 61,
+        "pending": false,
+        "families": {
+          "ETF": 61
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "516210",
+            "name": "银行ETF华安",
+            "family": "ETF",
+            "points": 61,
+            "pending": false,
+            "rank": 9,
+            "source": "s9-duoyinzi/DUAL55",
+            "route": null,
+            "detail": {
+              "score": 0.328801626952657
             }
           }
         ]
