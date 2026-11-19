@@ -1,8 +1,8 @@
 # 2026-11-19 一体包候选评分
 
-次一交易日 **2026-11-20** · **部分汇总** · 评分 v1。
+次一交易日 **2026-11-20** · **三包齐全** · 评分 v1。
 
-- zonghe · 报告缺失或不可用：HTTP Error 404: Not Found
+- zonghe · 已读取同日结果
 - top · 已读取同日结果
 - s9-duoyinzi · 已读取同日结果
 
@@ -12,31 +12,31 @@
 
 | 排名 | 代码 | 名称 | 综合分 | 分数拆解 | 信号来源 | 开盘复核 |
 |---:|---|---|---:|---|---|---|
-| 1 | 000678 | 襄阳轴承 | 72 | BF/G3 72 | top/bf #1 | 开盘按 BF、G3 原顺位和条件复核 |
-| 2 | 000656 | 金科股份 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
-| 3 | 002077 | 大港股份 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
-| 4 | 002146 | 荣盛发展 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
-| 5 | 002165 | 红 宝 丽 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
-| 6 | 002418 | 康盛股份 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
-| 7 | 002579 | 中京电子 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
-| 8 | 600520 | 三佳科技 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
-| 9 | 601616 | 广电电气 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
-| 10 | 603078 | 江化微 | 62 | FB 62 | top/fb | C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 1 | 600156 | 华升股份 | 76 | 趋势 76 | zonghe/S2_1 #1（观察）、zonghe/S2_2 #1、zonghe/S2_3 #5（观察）、zonghe/S2_4 #1（观察） | 复核对应策略的开盘缺口及正式名额 |
+| 2 | 000656 | 金科股份 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 3 | 002077 | 大港股份 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、zonghe/H1、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 4 | 002146 | 荣盛发展 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 5 | 002165 | 红宝丽 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、zonghe/H1、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 6 | 002418 | 康盛股份 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、zonghe/H1、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 7 | 002579 | 中京电子 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、zonghe/H1、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 8 | 600520 | 三佳科技 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、zonghe/H1、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 9 | 601616 | 广电电气 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、zonghe/H1、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
+| 10 | 603078 | 江化微 | 72 | P2 61、FB 62，共振 +10 | zonghe/P2、zonghe/H1、top/fb | 开盘缺口 (−5%, −2%]，按缺口选首位；C2 [−2.5%, +5%] 优先；C1 [−5%, −2%]，同档等开盘排序 |
 
 ## 仅观察
 
 | 排名 | 代码 | 名称 | 综合分 | 分数拆解 | 信号来源 | 开盘复核 |
 |---:|---|---|---:|---|---|---|
-| 1 | 600863 | 华能蒙电 | 80 | 趋势 70、S9股票 61，共振 +10 | top/v3 #1、s9-duoyinzi/champion #10、s9-duoyinzi/balanced #9、s9-duoyinzi/runner #6、s9-duoyinzi/original #9 | 仅观察 |
-| 2 | 603885 | 吉祥航空 | 77 | 趋势 66、S9股票 67，共振 +10 | top/v3 #2、s9-duoyinzi/champion #19、s9-duoyinzi/balanced #5、s9-duoyinzi/runner #8、s9-duoyinzi/original #5 | 仅观察 |
-| 3 | 000158 | 常山北明 | 75 | S9股票 75 | s9-duoyinzi/champion #1、s9-duoyinzi/balanced #1、s9-duoyinzi/runner #1、s9-duoyinzi/original #1、s9-duoyinzi/wild #1 | 仅观察 |
-| 4 | 600236 | 桂冠电力 | 71 | S9股票 71 | s9-duoyinzi/champion #11、s9-duoyinzi/balanced #3、s9-duoyinzi/runner #7、s9-duoyinzi/original #3 | 仅观察 |
-| 5 | 603629 | 利通电子 | 71 | S9股票 71 | s9-duoyinzi/champion #13、s9-duoyinzi/balanced #2、s9-duoyinzi/runner #4、s9-duoyinzi/original #2、s9-duoyinzi/wild #2 | 仅观察 |
-| 6 | 688172 | 燕东微 | 71 | S9股票 71 | s9-duoyinzi/champion #2、s9-duoyinzi/balanced #4、s9-duoyinzi/runner #2、s9-duoyinzi/original #4 | 仅观察 |
-| 7 | 688249 | 晶合集成 | 71 | S9股票 71 | s9-duoyinzi/balanced #7、s9-duoyinzi/runner #3、s9-duoyinzi/original #7 | 仅观察 |
-| 8 | 688506 | 百利天恒 | 71 | S9股票 71 | s9-duoyinzi/champion #3、s9-duoyinzi/balanced #10、s9-duoyinzi/runner #5、s9-duoyinzi/original #10 | 仅观察 |
-| 9 | 301660 | 粤芯半导 | 67 | S9股票 67 | s9-duoyinzi/champion #5、s9-duoyinzi/runner #11 | 仅观察 |
-| 10 | 600839 | 四川长虹 | 67 | S9股票 67 | s9-duoyinzi/champion #4、s9-duoyinzi/balanced #8、s9-duoyinzi/runner #12、s9-duoyinzi/original #8 | 仅观察 |
+| 1 | 000158 | 常山北明 | 85 | 趋势 72、S9股票 75，共振 +10 | zonghe/S2_1 #4、zonghe/S2_2 #4、zonghe/S2_3 #2、zonghe/S2_4 #4、s9-duoyinzi/champion #1、s9-duoyinzi/balanced #1、s9-duoyinzi/runner #1、s9-duoyinzi/original #1、s9-duoyinzi/wild #1 | 仅观察 |
+| 2 | 600236 | 桂冠电力 | 81 | 趋势 68、S9股票 71，共振 +10 | zonghe/S2_1 #5、zonghe/S2_2 #5、zonghe/S2_4 #5、s9-duoyinzi/champion #11、s9-duoyinzi/balanced #3、s9-duoyinzi/runner #7、s9-duoyinzi/original #3 | 仅观察 |
+| 3 | 600863 | 华能蒙电 | 80 | 趋势 70、S9股票 61，共振 +10 | top/v3 #1、s9-duoyinzi/champion #10、s9-duoyinzi/balanced #9、s9-duoyinzi/runner #6、s9-duoyinzi/original #9 | 仅观察 |
+| 4 | 603587 | 地素时尚 | 79 | HGB 69、趋势 62，共振 +10 | zonghe/HGB #1、top/v3 #4 | 仅观察 |
+| 5 | 603885 | 吉祥航空 | 77 | 趋势 66、S9股票 67，共振 +10 | top/v3 #2、s9-duoyinzi/champion #19、s9-duoyinzi/balanced #5、s9-duoyinzi/runner #8、s9-duoyinzi/original #5 | 仅观察 |
+| 6 | 605338 | 巴比食品 | 76 | HGB 65、趋势 66，共振 +10 | zonghe/HGB #3、top/v3 #3 | 仅观察 |
+| 7 | 600410 | 华胜天成 | 76 | 趋势 76 | zonghe/S2_1 #2、zonghe/S2_2 #2、zonghe/S2_3 #1、zonghe/S2_4 #2 | 仅观察 |
+| 8 | 603220 | 中贝通信 | 72 | 趋势 72 | zonghe/S2_1 #3、zonghe/S2_2 #3、zonghe/S2_3 #3、zonghe/S2_4 #3 | 仅观察 |
+| 9 | 603629 | 利通电子 | 71 | S9股票 71 | s9-duoyinzi/champion #13、s9-duoyinzi/balanced #2、s9-duoyinzi/runner #4、s9-duoyinzi/original #2、s9-duoyinzi/wild #2 | 仅观察 |
+| 10 | 688172 | 燕东微 | 71 | S9股票 71 | s9-duoyinzi/champion #2、s9-duoyinzi/balanced #4、s9-duoyinzi/runner #2、s9-duoyinzi/original #4 | 仅观察 |
 
 ## ETF 单列
 
