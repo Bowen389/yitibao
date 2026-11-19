@@ -28,6 +28,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install 'baostock>=0.8.9,<1' 'exchange-calendars>=4.11,<5'
+      - run: python -m unittest test_recovery -v
       - name: Follow upstream updates and rebuild dated aggregate
         env:
           REPORT_DATE: ${{ inputs.date }}
