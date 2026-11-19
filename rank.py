@@ -110,7 +110,7 @@ def collect(day, fixture):
                     raw=sorted(meta.get('raw_candidates') or [],key=lambda x:(-x.get('strength',0),-x.get('gain',0),x['code']))
                     spec.extend((row,family,rank_points(70,rank),False,rank) for rank,row in enumerate(raw[:5],1))
             else:
-                family='ETF' if key in ('B0','K3','K5') else 'S9股票'
+                family='ETF' if key in ('B0','K3','K5','DUAL55') else 'S9股票'
                 spec.extend((row,family,rank_points(75,rank),section.get('gate_on') is True,rank) for rank,row in enumerate(rows,1))
             for row,family,points,eligible,rank in spec:
                 code=str(row.get('code',''))
