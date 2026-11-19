@@ -17,7 +17,8 @@ permissions:
   contents: write
 concurrency:
   group: yitibao-daily
-  cancel-in-progress: false
+  # Code updates supersede obsolete aggregate-only runs; scheduled runs keep recovery ordering.
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 jobs:
   rank:
     runs-on: ubuntu-latest
