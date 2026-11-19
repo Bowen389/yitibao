@@ -11,7 +11,7 @@ VERSION = 'v1'
 SOURCES = {
     'zonghe': ('P2','H1','S2_1','S2_2','S2_3','S2_4','HGB'),
     'top': ('lh','n3','v3','s2','bf','fb'),
-    's9-duoyinzi': ('champion','balanced','runner','original','wild','B0','K3','K5'),
+    's9-duoyinzi': ('champion','balanced','runner','original','wild','B0','K3','K5','DUAL55'),
 }
 ENTRY = {
     'P2': '开盘缺口 (−5%, −2%]，按缺口选首位',
