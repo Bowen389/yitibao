@@ -1,11 +1,11 @@
 name: 一体包候选评分
 on:
   schedule:
-    # GitHub native schedule; UTC -> Asia/Shanghai 17:00 / 18:00
-    - cron: '0 9 * * 1-5'
-    - cron: '0 10 * * 1-5'
-    - cron: '0 13 * * 1-5'  # 盘后兜底补丁新增
-    - cron: '30 0 * * 2-6'  # 盘后兜底补丁新增
+    # 延后 65 分钟等 3 个上游落盘（其 README 本就写 17:55 生成/18:10 补齐）｜18:25｜21:00｜次日 08:30
+    - cron: '5 10 * * 1-5'
+    - cron: '25 10 * * 1-5'
+    - cron: '0 13 * * 1-5'
+    - cron: '30 0 * * 2-6'
   workflow_dispatch:
     inputs:
       date:
@@ -40,7 +40,10 @@ jobs:
           args=()
           if [ -n "$REPORT_DATE" ]; then args+=(--date "$REPORT_DATE"); fi
           wait_seconds=0
-          if [ "$EVENT_NAME" = schedule ]; then wait_seconds=1200; fi
+          # 兜底补丁：workflow_dispatch 也要等上游，否则 watchdog 每次触发都必然 PARTIAL exit 2
+          case "$EVENT_NAME" in
+            schedule|workflow_dispatch) wait_seconds=1200 ;;
+          esac
           python -u aggregate_watch.py --wait-seconds "$wait_seconds" "${args[@]}"
       - name: Publish report
         if: always()
