@@ -1,10 +1,10 @@
 # 2026-11-20 一体包候选评分
 
-次一交易日 **2026-11-23** · **部分汇总** · 评分 v1。
+次一交易日 **2026-11-23** · **三包齐全** · 评分 v1。
 
 - zonghe · 已读取同日结果
 - top · 已读取同日结果
-- s9-duoyinzi · 报告缺失或不可用：HTTP Error 404: Not Found
+- s9-duoyinzi · 已读取同日结果
 
 同族取最高分。最高家族分加不同家族共振分，每多一家 +10，最多 +20。待确认榜只计待确认信号。
 
@@ -27,19 +27,30 @@
 
 | 排名 | 代码 | 名称 | 综合分 | 分数拆解 | 信号来源 | 开盘复核 |
 |---:|---|---|---:|---|---|---|
-| 1 | 603324 | 盛剑科技 | 72 | 趋势 72 | zonghe/S2_1 #5、zonghe/S2_2 #5、zonghe/S2_3 #3、zonghe/S2_4 #5 | 仅观察 |
-| 2 | 600886 | 国投电力 | 70 | 趋势 70 | top/v3 #1 | 仅观察 |
-| 3 | 603587 | 地素时尚 | 69 | HGB 69 | zonghe/HGB #1 | 仅观察 |
-| 4 | 002579 | 中京电子 | 68 | 趋势 68 | zonghe/S2_1 #4、zonghe/S2_2 #4、zonghe/S2_3 #5、zonghe/S2_4 #4 | 仅观察 |
-| 5 | 600410 | 华胜天成 | 66 | 趋势 66 | top/v3 #2 | 仅观察 |
-| 6 | 601728 | 中国电信 | 66 | 趋势 66 | top/v3 #3 | 仅观察 |
-| 7 | 600715 | 文投控股 | 65 | HGB 65 | zonghe/HGB #3 | 仅观察 |
-| 8 | 600801 | 华新建材 | 65 | HGB 65 | zonghe/HGB #2 | 仅观察 |
-| 9 | 600900 | 长江电力 | 62 | 趋势 62 | top/v3 #5 | 仅观察 |
-| 10 | 601328 | 交通银行 | 62 | 趋势 62 | top/v3 #4 | 仅观察 |
+| 1 | 600886 | 国投电力 | 81 | 趋势 70、S9股票 71，共振 +10 | top/v3 #1、s9-duoyinzi/champion #19、s9-duoyinzi/balanced #8、s9-duoyinzi/runner #3、s9-duoyinzi/original #8 | 仅观察 |
+| 2 | 002157 | 正邦科技 | 75 | S9股票 75 | s9-duoyinzi/champion #1、s9-duoyinzi/balanced #1、s9-duoyinzi/runner #1、s9-duoyinzi/original #1、s9-duoyinzi/wild #1 | 仅观察 |
+| 3 | 603324 | 盛剑科技 | 72 | 趋势 72 | zonghe/S2_1 #5、zonghe/S2_2 #5、zonghe/S2_3 #3、zonghe/S2_4 #5 | 仅观察 |
+| 4 | 000158 | 常山北明 | 71 | S9股票 71 | s9-duoyinzi/champion #2 | 仅观察 |
+| 5 | 000166 | 申万宏源 | 71 | S9股票 71 | s9-duoyinzi/champion #13、s9-duoyinzi/balanced #3、s9-duoyinzi/runner #4、s9-duoyinzi/original #3 | 仅观察 |
+| 6 | 300628 | 亿联网络 | 71 | S9股票 71 | s9-duoyinzi/champion #3 | 仅观察 |
+| 7 | 601298 | 青岛港 | 71 | S9股票 71 | s9-duoyinzi/champion #9、s9-duoyinzi/balanced #2、s9-duoyinzi/runner #2、s9-duoyinzi/original #2、s9-duoyinzi/wild #2 | 仅观察 |
+| 8 | 603587 | 地素时尚 | 69 | HGB 69 | zonghe/HGB #1 | 仅观察 |
+| 9 | 002579 | 中京电子 | 68 | 趋势 68 | zonghe/S2_1 #4、zonghe/S2_2 #4、zonghe/S2_3 #5、zonghe/S2_4 #4 | 仅观察 |
+| 10 | 301638 | 南网数字 | 67 | S9股票 67 | s9-duoyinzi/champion #4 | 仅观察 |
 
 ## ETF 单列
 
-暂无候选。
+| 排名 | 代码 | 名称 | 综合分 | 分数拆解 | 信号来源 | 开盘复核 |
+|---:|---|---|---:|---|---|---|
+| 1 | 159798 | 消费ETF易方达 | 75 | ETF 75 | s9-duoyinzi/K3 #1 | 仅观察 |
+| 2 | 159887 | 银行ETF富国 | 75 | ETF 75 | s9-duoyinzi/DUAL55 #1 | 仅观察 |
+| 3 | 515650 | 消费50ETF富国 | 75 | ETF 75 | s9-duoyinzi/B0 #1、s9-duoyinzi/K3 #2、s9-duoyinzi/K5 #1 | 仅观察 |
+| 4 | 159928 | 消费ETF汇添富 | 71 | ETF 71 | s9-duoyinzi/B0 #3、s9-duoyinzi/K5 #3 | 仅观察 |
+| 5 | 512700 | 银行ETF南方 | 71 | ETF 71 | s9-duoyinzi/B0 #5、s9-duoyinzi/K3 #7、s9-duoyinzi/K5 #5、s9-duoyinzi/DUAL55 #3 | 仅观察 |
+| 6 | 513070 | 港股通消费ETF易方达 | 71 | ETF 71 | s9-duoyinzi/B0 #2、s9-duoyinzi/K3 #5、s9-duoyinzi/K5 #2 | 仅观察 |
+| 7 | 515450 | 红利低波50ETF南方 | 71 | ETF 71 | s9-duoyinzi/B0 #4、s9-duoyinzi/K3 #6、s9-duoyinzi/K5 #4、s9-duoyinzi/DUAL55 #2 | 仅观察 |
+| 8 | 516130 | 消费龙头ETF华宝 | 71 | ETF 71 | s9-duoyinzi/K3 #3 | 仅观察 |
+| 9 | 159735 | 港股消费ETF银华 | 67 | ETF 67 | s9-duoyinzi/K3 #4 | 仅观察 |
+| 10 | 515020 | 银行ETF华夏 | 67 | ETF 67 | s9-duoyinzi/DUAL55 #5 | 仅观察 |
 
 分数为盘前排序规则分。各策略的买入条件和名额以原包为准。完整候选见同日 JSON。
