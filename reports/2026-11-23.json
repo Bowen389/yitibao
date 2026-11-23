@@ -1136,7 +1136,7 @@
             "source": "s9-duoyinzi/runner",
             "route": null,
             "detail": {
-              "score": 7.807922624258303
+              "score": 7.807922624258304
             }
           }
         ]
@@ -4818,7 +4818,7 @@
             "source": "s9-duoyinzi/runner",
             "route": null,
             "detail": {
-              "score": 7.283250330965933
+              "score": 7.2832503309659335
             }
           }
         ]
@@ -4843,7 +4843,7 @@
             "source": "s9-duoyinzi/champion",
             "route": null,
             "detail": {
-              "score": 9.50121269563552
+              "score": 9.501212695635521
             }
           },
           {
@@ -4919,7 +4919,7 @@
             "source": "s9-duoyinzi/balanced",
             "route": null,
             "detail": {
-              "score": 6.765959504332262
+              "score": 6.765959504332266
             }
           },
           {
@@ -4932,7 +4932,7 @@
             "source": "s9-duoyinzi/original",
             "route": null,
             "detail": {
-              "score": 6.765959504332262
+              "score": 6.765959504332266
             }
           }
         ]
@@ -5059,7 +5059,7 @@
             "source": "s9-duoyinzi/champion",
             "route": null,
             "detail": {
-              "score": 6.458738240108317
+              "score": 6.4587382401083175
             }
           }
         ]
@@ -5198,7 +5198,7 @@
             "source": "s9-duoyinzi/balanced",
             "route": null,
             "detail": {
-              "score": 6.841615538466351
+              "score": 6.84161553846635
             }
           },
           {
@@ -5211,7 +5211,7 @@
             "source": "s9-duoyinzi/original",
             "route": null,
             "detail": {
-              "score": 6.841615538466351
+              "score": 6.84161553846635
             }
           }
         ]
@@ -5426,7 +5426,7 @@
             "source": "s9-duoyinzi/balanced",
             "route": null,
             "detail": {
-              "score": 6.98326128743718
+              "score": 6.9832612874371796
             }
           },
           {
@@ -5439,7 +5439,7 @@
             "source": "s9-duoyinzi/original",
             "route": null,
             "detail": {
-              "score": 6.98326128743718
+              "score": 6.9832612874371796
             }
           }
         ]
@@ -5539,7 +5539,7 @@
             "source": "s9-duoyinzi/champion",
             "route": null,
             "detail": {
-              "score": 6.651729277886608
+              "score": 6.6517292778866075
             }
           }
         ]
@@ -5566,7 +5566,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 1.2523604946835718
+              "score": 1.2523604946835707
             }
           }
         ]
@@ -5591,7 +5591,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.7248113717023811
+              "score": 0.7248113717023039
             }
           },
           {
@@ -5604,7 +5604,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.7248113717023811
+              "score": 0.7248113717023039
             }
           },
           {
@@ -5617,7 +5617,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.7248113717023811
+              "score": 0.7248113717023039
             }
           },
           {
@@ -5630,7 +5630,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.36394294620418816
+              "score": 0.36394294620418777
             }
           }
         ]
@@ -5655,7 +5655,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 1.2322113446774732
+              "score": 1.2322113446774738
             }
           },
           {
@@ -5668,7 +5668,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 1.2322113446774732
+              "score": 1.2322113446774738
             }
           },
           {
@@ -5681,7 +5681,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 1.2322113446774732
+              "score": 1.2322113446774738
             }
           }
         ]
@@ -5706,7 +5706,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.35997312586901015
+              "score": 0.3599731258690101
             }
           }
         ]
@@ -5731,7 +5731,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.7093717243075546
+              "score": 0.7093717243075551
             }
           },
           {
@@ -5744,7 +5744,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.7093717243075546
+              "score": 0.7093717243075551
             }
           },
           {
@@ -5757,7 +5757,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.7093717243075546
+              "score": 0.7093717243075551
             }
           },
           {
@@ -5770,7 +5770,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.34619558156178104
+              "score": 0.3461955815617814
             }
           }
         ]
@@ -5795,7 +5795,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.7278586422791893
+              "score": 0.7278586422791865
             }
           },
           {
@@ -5808,7 +5808,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.7278586422791893
+              "score": 0.7278586422791865
             }
           },
           {
@@ -5821,7 +5821,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.7278586422791893
+              "score": 0.7278586422791865
             }
           }
         ]
@@ -5846,7 +5846,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 1.055018715870344
+              "score": 1.0550187158703563
             }
           }
         ]
@@ -5871,7 +5871,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.7492455862373861
+              "score": 0.7492455862373855
             }
           }
         ]
@@ -5896,7 +5896,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.7242768194304398
+              "score": 0.7242768194305012
             }
           },
           {
@@ -5909,7 +5909,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.7242768194304398
+              "score": 0.7242768194305012
             }
           }
         ]
@@ -5934,7 +5934,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.34309557160266524
+              "score": 0.34309557160266463
             }
           }
         ]
@@ -5984,7 +5984,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.3367086518273798
+              "score": 0.33670865182738047
             }
           }
         ]
@@ -6009,7 +6009,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.3359234023540015
+              "score": 0.3359234023540016
             }
           }
         ]
@@ -6097,7 +6097,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.5533101047915512
+              "score": 0.5533101047915507
             }
           },
           {
@@ -6110,7 +6110,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.5533101047915512
+              "score": 0.5533101047915507
             }
           }
         ]
@@ -6135,7 +6135,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.3826427984337505
+              "score": 0.3826427984337507
             }
           },
           {
@@ -6148,7 +6148,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.3826427984337505
+              "score": 0.3826427984337507
             }
           }
         ]
@@ -6211,7 +6211,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.33905680451755155
+              "score": 0.3390568045175523
             }
           }
         ]
@@ -6236,7 +6236,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.5473931390576084
+              "score": 0.5473931390576081
             }
           },
           {
@@ -6249,7 +6249,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.5473931390576084
+              "score": 0.5473931390576081
             }
           },
           {
@@ -6262,7 +6262,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.5473931390576084
+              "score": 0.5473931390576081
             }
           }
         ]
@@ -6312,7 +6312,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.564827057518055
+              "score": 0.5648270575180534
             }
           }
         ]
