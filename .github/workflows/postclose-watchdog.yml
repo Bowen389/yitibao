@@ -5,8 +5,8 @@ name: 盘后兜底自检（post-close watchdog）
 # 主流程不触发时 guard 也无从执行。这里把"发现漏跑"和"执行扫描"拆成两个 workflow。
 on:
   schedule:
-    # 起始时刻按主槽位错开；命中即 dispatch 主流程，主流程自带幂等判定
-    - cron: '45 10,11,12 * * 1-5'
+    # trim 后 3 档/天（原 9 档），实测延迟区间 22~41 分钟至 6~7 小时，3 档足以接住
+    - cron: '35 9,11,13 * * 1-5'
     - cron: '20 0 * * 2-6'
   workflow_dispatch:
 permissions:
@@ -54,7 +54,7 @@ jobs:
           code=$(curl -sS -o /dev/null -w '%{http_code}' -X POST \
             -H "authorization: bearer $GH_TOKEN" -H "content-type: application/json" \
             -d '{"ref":"${{ github.ref_name }}"}' \
-            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/$MAIN_WORKFLOW/dispatch")
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/$MAIN_WORKFLOW/dispatches")
           echo "dispatch http $code"
           if [ "$code" != "204" ]; then
             echo "::error::dispatch 返回 $code，请手动在 Actions 运行 $MAIN_WORKFLOW"
