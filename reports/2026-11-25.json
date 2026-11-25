@@ -1,0 +1,670 @@
+{
+  "date": "2026-11-25",
+  "next_session": "2026-11-26",
+  "status": "partial",
+  "scoring_version": "v1",
+  "sources": {
+    "zonghe": [
+      "报告缺失或不可用：HTTP Error 404: Not Found"
+    ],
+    "top": [],
+    "s9-duoyinzi": [
+      "champion 缺失或异常",
+      "balanced 缺失或异常",
+      "runner 缺失或异常",
+      "original 缺失或异常",
+      "wild 缺失或异常",
+      "B0 缺失或异常",
+      "K3 缺失或异常",
+      "K5 缺失或异常",
+      "DUAL55 缺失或异常"
+    ]
+  },
+  "boards": {
+    "pending": [
+      {
+        "code": "600467",
+        "name": "好当家",
+        "score": 72,
+        "pending": true,
+        "families": {
+          "BF/G3": 72
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600467",
+            "name": "好当家",
+            "family": "BF/G3",
+            "points": 72,
+            "pending": true,
+            "rank": 1,
+            "source": "top/bf",
+            "route": null,
+            "detail": {
+              "score": 2
+            }
+          }
+        ]
+      },
+      {
+        "code": "000593",
+        "name": "德龙汇能",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000593",
+            "name": "德龙汇能",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.959403905447071
+            }
+          }
+        ]
+      },
+      {
+        "code": "000756",
+        "name": "新华制药",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000756",
+            "name": "新华制药",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8422256097560977
+            }
+          }
+        ]
+      },
+      {
+        "code": "002038",
+        "name": "双鹭药业",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8127853881278543
+            }
+          }
+        ]
+      },
+      {
+        "code": "002069",
+        "name": "獐子岛",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002069",
+            "name": "獐子岛",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8956884561891514
+            }
+          }
+        ]
+      },
+      {
+        "code": "002144",
+        "name": "宏达高科",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002144",
+            "name": "宏达高科",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.792126740278444
+            }
+          }
+        ]
+      },
+      {
+        "code": "002145",
+        "name": "钛能化学",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002145",
+            "name": "钛能化学",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.7952941176470585
+            }
+          }
+        ]
+      },
+      {
+        "code": "002197",
+        "name": "证通电子",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002197",
+            "name": "证通电子",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.9380530973451332
+            }
+          }
+        ]
+      },
+      {
+        "code": "002728",
+        "name": "特一药业",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002728",
+            "name": "特一药业",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8331503841931944
+            }
+          }
+        ]
+      },
+      {
+        "code": "002820",
+        "name": "桂发祥",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002820",
+            "name": "桂发祥",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8247950819672143
+            }
+          }
+        ]
+      },
+      {
+        "code": "002861",
+        "name": "瀛通通讯",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002861",
+            "name": "瀛通通讯",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8817679558011048
+            }
+          }
+        ]
+      },
+      {
+        "code": "002864",
+        "name": "盘龙药业",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002864",
+            "name": "盘龙药业",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8730116079105759
+            }
+          }
+        ]
+      },
+      {
+        "code": "600088",
+        "name": "中视传媒",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600088",
+            "name": "中视传媒",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8794489092996557
+            }
+          }
+        ]
+      },
+      {
+        "code": "600223",
+        "name": "福瑞达",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600223",
+            "name": "福瑞达",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8942652329749102
+            }
+          }
+        ]
+      },
+      {
+        "code": "600227",
+        "name": "赤天化",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600227",
+            "name": "赤天化",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.7967479674796748
+            }
+          }
+        ]
+      },
+      {
+        "code": "600229",
+        "name": "城市传媒",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600229",
+            "name": "城市传媒",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8556521739130433
+            }
+          }
+        ]
+      },
+      {
+        "code": "600280",
+        "name": "中央商场",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600280",
+            "name": "中央商场",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8533333333333333
+            }
+          }
+        ]
+      },
+      {
+        "code": "600829",
+        "name": "人民同泰",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600829",
+            "name": "人民同泰",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.8125665601703943
+            }
+          }
+        ]
+      },
+      {
+        "code": "601086",
+        "name": "国芳集团",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "601086",
+            "name": "国芳集团",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.7418375094912679
+            }
+          }
+        ]
+      },
+      {
+        "code": "603122",
+        "name": "合富中国",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "603122",
+            "name": "合富中国",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.7572254335260115
+            }
+          }
+        ]
+      },
+      {
+        "code": "603887",
+        "name": "城地香江",
+        "score": 62,
+        "pending": true,
+        "families": {
+          "FB": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "603887",
+            "name": "城地香江",
+            "family": "FB",
+            "points": 62,
+            "pending": true,
+            "rank": null,
+            "source": "top/fb",
+            "route": null,
+            "detail": {
+              "pos60_med": 0.9408175716900546
+            }
+          }
+        ]
+      }
+    ],
+    "watch": [
+      {
+        "code": "600600",
+        "name": "青岛啤酒",
+        "score": 70,
+        "pending": false,
+        "families": {
+          "趋势": 70
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600600",
+            "name": "青岛啤酒",
+            "family": "趋势",
+            "points": 70,
+            "pending": false,
+            "rank": 1,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "000530",
+        "name": "冰山冷热",
+        "score": 66,
+        "pending": false,
+        "families": {
+          "趋势": 66
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000530",
+            "name": "冰山冷热",
+            "family": "趋势",
+            "points": 66,
+            "pending": false,
+            "rank": 3,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "002242",
+        "name": "九阳股份",
+        "score": 66,
+        "pending": false,
+        "families": {
+          "趋势": 66
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "002242",
+            "name": "九阳股份",
+            "family": "趋势",
+            "points": 66,
+            "pending": false,
+            "rank": 2,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "000819",
+        "name": "岳阳兴长",
+        "score": 62,
+        "pending": false,
+        "families": {
+          "趋势": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "000819",
+            "name": "岳阳兴长",
+            "family": "趋势",
+            "points": 62,
+            "pending": false,
+            "rank": 4,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      },
+      {
+        "code": "600410",
+        "name": "华胜天成",
+        "score": 62,
+        "pending": false,
+        "families": {
+          "趋势": 62
+        },
+        "bonus": 0,
+        "evidence": [
+          {
+            "code": "600410",
+            "name": "华胜天成",
+            "family": "趋势",
+            "points": 62,
+            "pending": false,
+            "rank": 5,
+            "source": "top/v3",
+            "route": null,
+            "detail": {}
+          }
+        ]
+      }
+    ],
+    "etf": []
+  }
+}
