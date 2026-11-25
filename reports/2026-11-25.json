@@ -1545,7 +1545,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 1.2457837278619568
+              "score": 1.2457837278619581
             }
           }
         ]
@@ -1570,7 +1570,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.7418646666583608
+              "score": 0.741864666658308
             }
           },
           {
@@ -1583,7 +1583,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.7418646666583608
+              "score": 0.741864666658308
             }
           },
           {
@@ -1596,7 +1596,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.7418646666583608
+              "score": 0.741864666658308
             }
           },
           {
@@ -1685,7 +1685,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.7713934698018697
+              "score": 0.7713934698018703
             }
           },
           {
@@ -1698,7 +1698,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.7713934698018697
+              "score": 0.7713934698018703
             }
           },
           {
@@ -1711,7 +1711,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.7713934698018697
+              "score": 0.7713934698018703
             }
           },
           {
@@ -1724,7 +1724,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.3890130941868715
+              "score": 0.3890130941868732
             }
           }
         ]
@@ -1749,7 +1749,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.37432248155662495
+              "score": 0.3743224815566248
             }
           }
         ]
@@ -1774,7 +1774,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 1.0426325021804235
+              "score": 1.0426325021803993
             }
           }
         ]
@@ -1799,7 +1799,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.6721646482663942
+              "score": 0.6721646482663949
             }
           },
           {
@@ -1812,7 +1812,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.6721646482663942
+              "score": 0.6721646482663949
             }
           }
         ]
@@ -1837,7 +1837,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.6007674355405167
+              "score": 0.6007674355405175
             }
           },
           {
@@ -1850,7 +1850,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.6007674355405167
+              "score": 0.6007674355405175
             }
           }
         ]
@@ -1875,7 +1875,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.3723218637757443
+              "score": 0.37232186377574394
             }
           }
         ]
@@ -1900,7 +1900,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.3736817457239564
+              "score": 0.37368174572395546
             }
           }
         ]
@@ -1925,7 +1925,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.6275350518654481
+              "score": 0.6275350518654367
             }
           }
         ]
@@ -1950,7 +1950,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.34906330101747296
+              "score": 0.34906330101747635
             }
           },
           {
@@ -1963,7 +1963,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.34906330101747296
+              "score": 0.34906330101747635
             }
           }
         ]
@@ -1988,7 +1988,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.4076479591082641
+              "score": 0.40764795910818186
             }
           },
           {
@@ -2001,7 +2001,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.4076479591082641
+              "score": 0.40764795910818186
             }
           }
         ]
@@ -2051,7 +2051,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.3676096658481495
+              "score": 0.3676096658481496
             }
           }
         ]
@@ -2139,7 +2139,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.6132268470615444
+              "score": 0.6132268470615446
             }
           }
         ]
@@ -2164,7 +2164,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.39344793660647
+              "score": 0.3934479366064697
             }
           },
           {
@@ -2177,7 +2177,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.39344793660647
+              "score": 0.3934479366064697
             }
           }
         ]
@@ -2202,7 +2202,7 @@
             "source": "s9-duoyinzi/DUAL55",
             "route": null,
             "detail": {
-              "score": 0.36835051444603256
+              "score": 0.36835051444603223
             }
           }
         ]
@@ -2227,7 +2227,7 @@
             "source": "s9-duoyinzi/B0",
             "route": null,
             "detail": {
-              "score": 0.5401837174953263
+              "score": 0.5401837174953255
             }
           },
           {
@@ -2240,7 +2240,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.5401837174953263
+              "score": 0.5401837174953255
             }
           },
           {
@@ -2253,7 +2253,7 @@
             "source": "s9-duoyinzi/K5",
             "route": null,
             "detail": {
-              "score": 0.5401837174953263
+              "score": 0.5401837174953255
             }
           }
         ]
@@ -2328,7 +2328,7 @@
             "source": "s9-duoyinzi/K3",
             "route": null,
             "detail": {
-              "score": 0.5003780956251198
+              "score": 0.50037809562512
             }
           }
         ]
